@@ -1,4 +1,4 @@
-**Vustomer segmentation pengguna kartu kredit**
+**Customer segmentation pengguna kartu kredit**
 
 Menggunakan model machine learning unsupervised learning dengan membandingan K-means, Agglomerative Clustering dan DBSCAN untuk membuat customer clustering dari pengguna kartu kredit. 
 
